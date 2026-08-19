@@ -1,5 +1,5 @@
 ---
-title: Template for Knowledge Base Docs Websites
+title: The process of building a Food Truck.
 ---
 ## The index page
 
