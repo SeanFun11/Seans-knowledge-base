@@ -3,7 +3,7 @@ title: The process of building a Food Truck.
 ---
 ## Main Categories
 - [[food truck-01/index| food truck-01]]
-- [[- [[food truck menu-02/index| food truck menu-02]]
+- [[food truck menu-02/index| food truck menu-02]]
 - [[food truck photos-03/index| food truck photos-03]]
 - [[food truck locations-04/index| food truck photos-04]]
 - [[food truck inspirations-05/index| food truck inspirations-05]]
