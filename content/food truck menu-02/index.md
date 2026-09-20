@@ -8,3 +8,5 @@ title: food truck menu 02
 - [[cooking and holding on a truck]] — equipment limits and holding
 - [[specials and rotation]] — what sold and what didn't
 - [[reading the line]] — service speed and crowd reading
+
+## Foot truck menu  ![[content/assests/mac menu.pdf|mac menu.pdf]]]

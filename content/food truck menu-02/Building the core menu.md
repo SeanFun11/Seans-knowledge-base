@@ -10,3 +10,4 @@ i had to take out seafood in my model because the food cost did not make sense o
 #### The One That Still Bothers Me 
 What bothers me the most is the fact that stuff breaks so much that I will have to factor that into my business model as well. 
 ## Where This Leads Once the items were set, the next problem was pricing them — see [[costing a dish]].
+## Brisket Mac  ![[Brisketmac.png]]
