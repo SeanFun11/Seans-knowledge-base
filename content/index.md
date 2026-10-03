@@ -1,50 +1,34 @@
 ---
-title: The process of building a Food Truck.
+title: The Process of Building a Food Truck
+date: 2026-10-02
 ---
-## Main Categories
-- [[food truck-01/index| food truck-01]]
-- [[- [[food truck menu-02/index| food truck menu-02]]
-- [[food truck photos-03/index| food truck photos-03]]
-- [[food truck locations-04/index| food truck photos-04]]
-- [[food truck inspirations-05/index| food truck inspirations-05]]
 
+This knowledge base is a practical guide to **starting and running a food truck**. It's written for aspiring owners, new crew members, and anyone curious about how mobile food businesses actually work, from the first idea to a busy lunch rush.
 
-The index page
+> [!tip] New here?
+> Start with [[what-is-a-food-truck|What Is a Food Truck?]] and then explore the categories below. Every page links to related topics so you can keep exploring.
 
-This is the index page (`content/index.md`) of your knowledge base docs. It serves as the home page for your website.
+## Browse by Category
 
-## Editing pages
+| Category | What You'll Learn |
+|---|---|
+| 🚚 [[food truck-01/index\|Food Truck Basics]] | The business, startup costs, permits, safety, the truck, and equipment |
+| 🍔 [[food truck menu-02/index\|Food Truck Menu]] | Core menu design, cooking and holding, costing, service, specials, and food safety |
+| 📸 [[food truck photos-03/index\|Food Truck Photos]] | Food photography, truck wraps and branding, and social media |
+| 📍 [[food truck locations-04/index\|Food Truck Locations]] | Finding spots, food truck parks, events, and daily operations |
+| 💡 [[food truck inspirations-05/index\|Food Truck Inspirations]] | Food truck history, popular concepts, and choosing your own |
 
-You can edit this index page by opening the `content/index.md` file (found in the `content/` folder) in a Markdown-specific app or any text editor. 
+## Suggested Learning Path
 
-For many people, editing Markdown files with user-friendly interfaces, linking, themes, and 
+1. Get inspired: [[history-of-food-trucks|History of Food Trucks]]
+2. Pick your idea: [[choosing-a-concept|Choosing a Concept]]
+3. Make it official: [[permits-and-licenses|Permits and Licenses]]
+4. Get rolling: [[buying-a-truck|Buying a Truck]]
+5. Build the menu: [[building-a-core-menu|Building a Core Menu]]
+6. Show it off: [[food-photography-basics|Food Photography Basics]]
+7. Find customers: [[finding-locations|Finding Locations]]
 
-### Obsidian (free)
+## More Pages
 
-Using [Obsidian](https://obsidian.md/) is recommended for writing/editing/creating Markdown files and building your knowledge base. It's free, has a user-friendly Markdown editing interface, and supports a variety of customizations and plugins. Obsidian's default theme and settings are recommended for beginners.
-
-Link: [https://obsidian.md/](https://obsidian.md/)
-
-### Visual Studio Code (free)
-
-Visual Studio Code (vscode) is a popular free and open source code editor.
-
-Installing the [Markdown All in One](https://github.com/yzhang-gh/vscode-markdown) extension is highly recommended for vscode: it adds helpful Markdown features in addition to the built-in vscode Markdown support.
-
-Link: [https://code.visualstudio.com/](https://code.visualstudio.com/)
-
-### iA Writer (paid)
-
-iA Writer is a professional tool for writing documents using Markdown. It is a popular choice for serious writers wanting a distraction-free and high-quality writing and editing experience.
-
-Link: [https://ia.net/writer](https://ia.net/writer)
-
-### Text editors (free or paid)
-
-You can use any text editor capable of opening and editing Markdown files. 
-
----
-## Adding new pages
-
-You can add more pages to your website by adding more Markdown files to the `content/` folder. Take a look at [[Example doc 01]] to learn more.
-
+- [[About|About This Knowledge Base]]: Who made this site and why
+- [[references|References]]: Every outside source used, with links to the pages that cite them

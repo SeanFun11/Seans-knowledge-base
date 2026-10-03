@@ -1,4 +1,8 @@
-# Reading the Line
+---
+title: Reading the Line
+date: 2026-09-28
+tags: [food-truck-menu]
+---
 
 "Reading the line" means looking at the people waiting at your window and knowing, before the tickets reach you, what the next twenty minutes will demand. It is a skill built from paying attention, and it is what separates a rush that feels controlled from one that falls apart.
 
@@ -44,3 +48,11 @@ Small kitchens run on call-and-response. Ticket in, called out loud. Item fired,
 ## Service Data Is Menu Data
 
 What you notice at the window should feed back into the menu. The item that always adds two minutes is a design problem, not a cook problem. The item nobody orders is taking up prep time and cooler space. Bring those observations to [[building-a-core-menu]] and to [[specials-and-rotation]], where a weak item can be tested and replaced.
+
+## Related Pages
+
+- [[kitchen-layout|Kitchen Layout]]
+- [[point-of-sale-and-payments|Point of Sale and Payments]]
+- [[daily-operations|Daily Operations Checklist]]
+
+[[food truck menu-02/index|← Back to Food Truck Menu]]
