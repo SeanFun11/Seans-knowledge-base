@@ -1,4 +1,8 @@
-# Specials and Rotation
+---
+title: Specials and Rotation
+date: 2026-09-28
+tags: [food-truck-menu]
+---
 
 A core menu should be stable. A special is how you stay interesting without touching it. Done well, specials bring regulars back, use up product you already have, and act as a low-risk testing ground for future menu items. Done badly, they quietly wreck your prep schedule and your ticket times.
 
@@ -39,3 +43,11 @@ Decide in advance what failure looks like. For example: any special that sells f
 ## Promote It the Day Before
 
 A special nobody hears about is just extra prep. Post it the evening before with the item, the price, the stop, and the hours. Say plainly that it runs while supplies last, and then actually sell out rather than overproducing to avoid the word. Overproduction turns a profitable special into a loss, and the reasons why are covered in [[cooking-and-holding]].
+
+## Related Pages
+
+- [[social-media-marketing|Social Media Marketing]]
+- [[events-and-catering|Events and Catering]]
+- [[sourcing-ingredients|Sourcing Ingredients]]
+
+[[food truck menu-02/index|← Back to Food Truck Menu]]

@@ -1,9 +1,10 @@
-# Costing a Dish
+---
+title: Costing a Dish
+date: 2026-09-28
+tags: [food-truck-menu]
+---
 
 Plenty of trucks are busy and still lose money. Usually the reason is not sales volume, it is that nobody ever costed the menu. Costing a dish means knowing exactly what one serving costs you before it reaches the window, so you can price it on purpose instead of by guessing what looks reasonable on a board.
-
-![[assets/food-truck-service-window.jpg|500]]
-*A food truck service window during lunch service. Every plate that goes through it should have a known cost behind it.*
 
 ## Start With Edible Portion Cost
 
@@ -49,3 +50,11 @@ The side has the better percentage. The entrée puts nearly three times more mon
 Costs move. Re-run your numbers at least quarterly and any time a key ingredient jumps. Also remember that event fees, commissary rent, fuel, and propane come out of what is left, so a menu costed to the edge leaves nothing to absorb a slow day.
 
 Costing also tells you which items deserve space on the board. An item that cannot be priced to work belongs in [[specials-and-rotation]] or nowhere. Portion control is what keeps these numbers honest during service, which ties directly to [[cooking-and-holding]] and to the discipline described in [[building-a-core-menu]].
+
+## Related Pages
+
+- [[sourcing-ingredients|Sourcing Ingredients]]
+- [[startup-costs|Startup Costs]]
+- [[point-of-sale-and-payments|Point of Sale and Payments]]
+
+[[food truck menu-02/index|← Back to Food Truck Menu]]
