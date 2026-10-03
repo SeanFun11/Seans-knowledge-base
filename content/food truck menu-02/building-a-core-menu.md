@@ -1,8 +1,4 @@
----
-title: Building a Core Menu
-date: 2026-09-28
-tags: [food-truck-menu]
----
+# Building a Core Menu
 
 A food truck menu is not a small restaurant menu. It is a menu shaped by three hard limits: the equipment bolted into the truck, the prep you can finish before the doors open, and the number of tickets you can push through the window in an hour. Most trucks that struggle are not bad at cooking. They are trying to run a twenty-item menu out of a kitchen the size of a hallway.
 
@@ -45,11 +41,3 @@ If an item fails two of these, it is a candidate for [[specials-and-rotation]] i
 The menu board is read from ten feet away by someone deciding whether to get in line. Item name, two to four words of description, price. Nothing else. Long descriptions slow the line down, and a slow line is the most expensive problem a truck has. For how that plays out during service, see [[reading-the-line]].
 
 Once the item list is set, run every item through [[costing-a-dish]] before printing anything. It is common to discover that a favorite item cannot be priced to work, and it is much cheaper to learn that before the board is made.
-
-## Related Pages
-
-- [[sourcing-ingredients|Sourcing Ingredients]]
-- [[food-photography-basics|Food Photography Basics]]
-- [[popular-food-truck-concepts|Popular Food Truck Concepts]]
-
-[[food truck menu-02/index|← Back to Food Truck Menu]]

@@ -1,8 +1,4 @@
----
-title: Cooking and Holding
-date: 2026-09-28
-tags: [food-truck-menu]
----
+# Cooking and Holding on a Truck
 
 A truck rarely cooks to order from raw. There is not enough equipment or time. Instead, most service runs on a par-cook and hold system: components are mostly cooked ahead, held at safe temperature, and finished when the ticket comes in. Getting that system right is the difference between a four-minute ticket and a fifteen-minute one.
 
@@ -42,11 +38,3 @@ The usual solution is a split: hold the slow component, finish the fast one. The
 Cook in batches sized to about thirty minutes of expected sales, not to the size of your biggest pan. Small batches mean the food spends less time holding, quality stays higher, and a slow day does not end with a full pan going in the trash. Overproduction is a direct hit to your numbers, which is worth understanding through [[costing-a-dish]].
 
 Watch your recovery times too. A fryer dropped below temperature by a large batch needs minutes to come back, and during a rush those minutes stack up. That effect is covered in [[reading-the-line]].
-
-## Related Pages
-
-- [[food-safety-basics|Food Safety Basics]]
-- [[prep-and-commissary|Prep and Commissary]]
-- [[essential-equipment|Essential Equipment]]
-
-[[food truck menu-02/index|← Back to Food Truck Menu]]
